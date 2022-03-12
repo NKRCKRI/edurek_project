@@ -1,6 +1,6 @@
 #Absible
 ---
-- hosts: all
+- hosts: 172.31.17.131
   become: true
   vars_files:
     - vars/default.yml
