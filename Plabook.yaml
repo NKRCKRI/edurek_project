@@ -1,6 +1,6 @@
 #Absible
 ---
-- hosts: 172.31.17.131
+- hosts: all
   become: true
 
   tasks:
